@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava;
+package academy.devdojo.maratonajava.introducao;
 
 public class EstrututrasConsicionais {
     public static void main(String[] args) {
