@@ -6,19 +6,19 @@ import academy.devdojo.maratonajava.intrometodo.UsoDoThis;
 public class EstudanteMetodoComThis {
     public static void main(String[] args) {
 
-        UsoDoThis imprime = new UsoDoThis();
+        UsoDoThis x = new UsoDoThis();
 
-        imprime.name = "Fernando";
-        imprime.age = 31;
-        imprime.sex = 'M';
+        x.name = "Fernando";
+        x.age = 31;
+        x.sex = 'M';
 
-        imprime.imprime();
+        x.imprime();
 
-        imprime.name = "sadasd";
-        imprime.age = 21;
-        imprime.sex = 'F';
+        x.name = "sadasd";
+        x.age = 21;
+        x.sex = 'F';
 
-        imprime.imprime();
+        x.imprime();
 
 
 

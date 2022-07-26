@@ -1,13 +1,13 @@
 package academy.devdojo.maratonajava.test;
 
 import academy.devdojo.maratonajava.intrometodo.Estudante;
-import academy.devdojo.maratonajava.intrometodo.ImprimeEstudante;
+import academy.devdojo.maratonajava.intrometodo.imprimeestudante;
 
 public class EstudanteTesteMetodosParametros {
     public static void main(String[] args) {
         Estudante estudante1 = new Estudante();
         Estudante estudante2 = new Estudante();
-        ImprimeEstudante impressora = new ImprimeEstudante();
+        imprimeestudante impressora = new imprimeestudante();
 
         estudante1.name = "Fernando";
         estudante1.age = 31;

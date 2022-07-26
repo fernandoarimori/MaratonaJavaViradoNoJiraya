@@ -26,6 +26,12 @@ public class Calculadora {
         double resultadoDiv = calculadora.divisaoDoisNumeros(div1,div2);
         System.out.println(resultadoDiv);
 
+        System.out.println("----------------");
+        System.out.println("----------------");
+
+        int exemploArray[] = {1,2,3,4,5};
+        calculadora.somaVarArgs(exemploArray);
+
 
     }
 }

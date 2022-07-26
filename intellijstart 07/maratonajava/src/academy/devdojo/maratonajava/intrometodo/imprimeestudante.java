@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.intrometodo;
 
-public class ImprimeEstudante {
+public class imprimeestudante {
     public void imprime(Estudante x){
         System.out.println("----------------");
         System.out.println(x.name);

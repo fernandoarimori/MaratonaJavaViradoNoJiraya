@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b53bd74-12e2-4ca7-8cc5-9aac4e2e4e1a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/UmPraTodosTodosPraUm/domain/Bodybuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/UmPraTodosTodosPraUm/domain/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/UmPraTodosTodosPraUm/test/PracticeRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/blocoinicializacao/domain/Desenho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/blocoinicializacao/test/DesenhoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/estaticos/domain/Bodybuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/estaticos/test/bodybuilderStaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/exerciciosdeclasse/ExercicioTrabalhadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/exerciciosdeclasse/criadortrabalhador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/exerciciosdeclasse/trabalhador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/getset/PessoaGetSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/getset/TestPessoaGetSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/matodooverloading/ExemploOverloadingMetodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/matodooverloading/anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/metodocontrutor/ExemploOverloadingMetodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/metodocontrutor/anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/objetosemarrays/domain/Bodybuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/objetosemarrays/domain/Probbder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/objetosemarrays/domain/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/objetosemarrays/domain/Trunksdobbder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/objetosemarrays/test/ArrayBodybuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/objetosemarrays/test/BodybuilderTeamUmPraTodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/objetosemarrays/test/MuitosPraUmBbderPraTrunks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellijstart 07/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/intrometodo/ImprimeEstudante.class" beforeDir="false" afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/intrometodo/ImprimeEstudante.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellijstart 07/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/javacore/introducaoclasses/domainPT1/CalculadoraExemploMetodo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/javacore/introducaoclasses/domainPT1/CalculadoraExemploMetodo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellijstart 07/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/test/Calculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/test/Calculadora.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellijstart 07/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/test/EstudanteMetodoComThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/test/EstudanteMetodoComThis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellijstart 07/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/test/EstudanteTesteMetodosParametros.class" beforeDir="false" afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/test/EstudanteTesteMetodosParametros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/intrometodo/ImprimeEstudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/intrometodo/imprimeestudante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/javacore/introducaoclasses/domainPT1/CalculadoraExemploMetodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/javacore/introducaoclasses/domainPT1/CalculadoraExemploMetodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/test/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/test/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/test/EstudanteMetodoComThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/test/EstudanteMetodoComThis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/test/EstudanteTesteMetodosParametros.java" beforeDir="false" afterPath="$PROJECT_DIR$/../intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/test/EstudanteTesteMetodosParametros.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2C55Usv3rLgAkGTP8BWyPFLDppA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b53bd74-12e2-4ca7-8cc5-9aac4e2e4e1a" name="Changes" comment="" />
+      <created>1658079625326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658079625326</updated>
+    </task>
+    <servers />
+  </component>
+</project>

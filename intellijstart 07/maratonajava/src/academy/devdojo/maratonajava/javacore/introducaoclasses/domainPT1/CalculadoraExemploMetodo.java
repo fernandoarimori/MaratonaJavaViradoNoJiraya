@@ -21,4 +21,13 @@ public class CalculadoraExemploMetodo {
         }
         return (div1/div2);
     }
+
+    public void somaVarArgs(int... numeros){
+        int soma = 0;
+        for(int cont: numeros){
+            soma += cont;
+        }
+        System.out.println(soma);
+    }
+
 }

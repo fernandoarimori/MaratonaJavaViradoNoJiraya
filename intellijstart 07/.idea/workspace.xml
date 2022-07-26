@@ -4,7 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82879f1e-ff42-467f-92ae-3232318e634e" name="Changes" comment="" />
+    <list default="true" id="82879f1e-ff42-467f-92ae-3232318e634e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exercicio vid69/ExercicioVid69/src/exercisevid69/domain/Personagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio vid69/ExercicioVid69/src/exercisevid69/test/Transform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/UmPraTodosTodosPraUm/domain/Bodybuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/UmPraTodosTodosPraUm/domain/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/UmPraTodosTodosPraUm/test/PracticeRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/blocoinicializacao/domain/Desenho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/blocoinicializacao/test/DesenhoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/estaticos/domain/Bodybuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/estaticos/test/bodybuilderStaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/exercicioassiciacao/domain/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/exercicioassiciacao/domain/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/exercicioassiciacao/domain/Seminario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/exercicioassiciacao/test/TestSeminario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/exerciciosdeclasse/ExercicioTrabalhadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/exerciciosdeclasse/criadortrabalhador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/exerciciosdeclasse/trabalhador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/getset/PessoaGetSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/getset/TestPessoaGetSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/matodooverloading/ExemploOverloadingMetodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/matodooverloading/anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/metodocontrutor/ExemploOverloadingMetodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/metodocontrutor/anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/objetosemarrays/domain/Bodybuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/objetosemarrays/domain/Probbder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/objetosemarrays/domain/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/objetosemarrays/domain/Trunksdobbder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/objetosemarrays/test/ArrayBodybuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/objetosemarrays/test/BodybuilderTeamUmPraTodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/objetosemarrays/test/MuitosPraUmBbderPraTrunks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/intrometodo/ImprimeEstudante.class" beforeDir="false" afterPath="$PROJECT_DIR$/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/intrometodo/ImprimeEstudante.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/javacore/introducaoclasses/domainPT1/CalculadoraExemploMetodo.class" beforeDir="false" afterPath="$PROJECT_DIR$/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/javacore/introducaoclasses/domainPT1/CalculadoraExemploMetodo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/test/Calculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/test/Calculadora.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/test/EstudanteMetodoComThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/test/EstudanteMetodoComThis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/test/EstudanteTesteMetodosParametros.class" beforeDir="false" afterPath="$PROJECT_DIR$/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/test/EstudanteTesteMetodosParametros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/intrometodo/ImprimeEstudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/intrometodo/imprimeestudante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/javacore/introducaoclasses/domainPT1/CalculadoraExemploMetodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/javacore/introducaoclasses/domainPT1/CalculadoraExemploMetodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/test/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/test/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/test/EstudanteMetodoComThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/test/EstudanteMetodoComThis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/test/EstudanteTesteMetodosParametros.java" beforeDir="false" afterPath="$PROJECT_DIR$/maratonajava/src/academy/devdojo/maratonajava/test/EstudanteTesteMetodosParametros.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,14 +69,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Fern/Desktop/ESTUDO DEVDOJO/intellijstart 07",
-    "settings.editor.selected.configurable": "editing.templates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Fern/Desktop/ESTUDO DEVDOJO/intellijstart 07&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ExercicioEstruturasCondicionais">
     <configuration name="ExercicioEstruturasCondicionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.ExercicioEstruturasCondicionais" />
