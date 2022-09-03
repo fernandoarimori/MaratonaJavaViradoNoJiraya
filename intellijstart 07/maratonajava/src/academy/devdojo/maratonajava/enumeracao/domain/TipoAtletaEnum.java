@@ -12,6 +12,15 @@ public enum TipoAtletaEnum {
         this.ATLETAENUM2 = ATLETAENUM2;
     }
 
+    public static TipoAtletaEnum enumPeloAtributo(String x){
+        for (TipoAtletaEnum tipoAtleta: values()){
+            if(tipoAtleta.getATLETAENUM2().equals(x)){
+                return tipoAtleta;
+            }
+        }
+        return null;
+    }
+
     public int getATLETAENUM() {
         return ATLETAENUM;
     }
