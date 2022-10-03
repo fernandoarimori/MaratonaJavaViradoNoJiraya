@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.test;
 
-import java.lang.reflect.Array;
+
 import java.util.Scanner;
 
 public class TestArray {

@@ -5,5 +5,6 @@ import academy.devdojo.maratonajava.HERANCA.construtor.domain.InicializacaoFilha
 public class TestInicializacaoHeranca {
     public static void main(String[] args) {
         InicializacaoFilhaSub init= new InicializacaoFilhaSub("Classe de inicalizao pelo filha");
+        init.getNome();
     }
 }
