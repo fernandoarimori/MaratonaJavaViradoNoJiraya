@@ -5,18 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa3797db-48ff-46b8-bbff-b39995e01f17" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/ClassesUtilitarias/resourcebundle/ResourceBundleTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/ScannerTokenDelimitadors/ScanneTokenDelimitaorTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/ScannerTokenDelimitadors/ScannerTokenDelimitadoresText01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/msg_en_US.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellijstart 07/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/HERANCA/construtor/test/TestInicializacaoHeranca.class" beforeDir="false" afterPath="$PROJECT_DIR$/intellijstart 07/maratonajava/out/production/maratonajava/academy/devdojo/maratonajava/HERANCA/construtor/test/TestInicializacaoHeranca.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/ClassesUtilitarias/Dates/test/TemporalAdjusterExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/ClassesUtilitarias/Dates/test/TemporalAdjusterExercise01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/ClassesUtilitarias/Dates/test/TemporalAdjusterTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/ClassesUtilitarias/Dates/test/TemporalAdjusterTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/ClassesUtilitarias/Dates/test/ZonedIdZonedDateTimeOffsetDateTimeTEST01.java" beforeDir="false" afterPath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/ClassesUtilitarias/Dates/test/ZonedIdZonedDateTimeOffsetDateTimeTEST01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/HERANCA/construtor/test/TestInicializacaoHeranca.java" beforeDir="false" afterPath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/HERANCA/construtor/test/TestInicializacaoHeranca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/test/TestArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/test/TestArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,6 +31,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29ZM64Bwg7LXza6OEA103649trN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,13 +42,93 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/SheilaMello/Desktop/ESTUDO DEVDOJO/intellijstart 07/maratonajava&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SheilaMello/Desktop/ESTUDO DEVDOJO/intellijstart 07/maratonajava&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\SheilaMello\Desktop\ESTUDO DEVDOJO\Exercicio vid69\ExercicioVid69\src\exercisevid69\domain" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.REGEX" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FileTest01">
+    <configuration name="FileTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.Files.FileTest01" />
+      <module name="ESTUDO DEVDOJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.Files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegerExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.REGEX.RegerExercise" />
+      <module name="ESTUDO DEVDOJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.REGEX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegexExercise02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.REGEX.RegexExercise02" />
+      <module name="ESTUDO DEVDOJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.REGEX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegexExercise03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.REGEX.RegexExercise03" />
+      <module name="ESTUDO DEVDOJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.REGEX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegexExercise04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.REGEX.RegexExercise04" />
+      <module name="ESTUDO DEVDOJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.REGEX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileTest01" />
+        <item itemvalue="Application.RegexExercise04" />
+        <item itemvalue="Application.RegexExercise03" />
+        <item itemvalue="Application.RegexExercise02" />
+        <item itemvalue="Application.RegerExercise" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -51,5 +140,16 @@
       <updated>1653315976936</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/REGEX/RegexExercise04.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
