@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa3797db-48ff-46b8-bbff-b39995e01f17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/ClassesUtilitarias/resourcebundle/ResourceBundleTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/ScannerTokenDelimitadors/ScanneTokenDelimitaorTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/academy/devdojo/maratonajava/ScannerTokenDelimitadors/ScannerTokenDelimitadoresText01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intellijstart 07/maratonajava/src/msg_en_US.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +49,33 @@
       <recent name="academy.devdojo.maratonajava.REGEX" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileTest01">
+  <component name="RunManager" selected="Application.BufferefFileWriterTest01">
+    <configuration name="BufferefFileWriterTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.Files.BufferefFileWriterTest01" />
+      <module name="ESTUDO DEVDOJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.Files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileReaderTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.Files.FileReaderTest01" />
+      <module name="ESTUDO DEVDOJO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.Files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FileTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.Files.FileTest01" />
       <module name="ESTUDO DEVDOJO" />
@@ -68,38 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegerExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.REGEX.RegerExercise" />
+    <configuration name="FileWriting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.Files.FileWriting" />
       <module name="ESTUDO DEVDOJO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.REGEX.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RegexExercise02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.REGEX.RegexExercise02" />
-      <module name="ESTUDO DEVDOJO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.REGEX.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RegexExercise03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.REGEX.RegexExercise03" />
-      <module name="ESTUDO DEVDOJO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.REGEX.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.Files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BufferefFileWriterTest01" />
         <item itemvalue="Application.FileTest01" />
+        <item itemvalue="Application.FileReaderTest01" />
+        <item itemvalue="Application.FileWriting" />
         <item itemvalue="Application.RegexExercise04" />
-        <item itemvalue="Application.RegexExercise03" />
-        <item itemvalue="Application.RegexExercise02" />
-        <item itemvalue="Application.RegerExercise" />
       </list>
     </recent_temporary>
   </component>
